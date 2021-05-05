@@ -1,7 +1,7 @@
 const { circleArea } = require('./solutions/circleArea');
 const { startsWithUpperCase } = require('./solutions/startsWithUpperCase');
 
-// Write a function that determines the area of a circle given the radius.
+// 1. Write a function that determines the area of a circle given the radius.
 console.log('-- test circleArea');
 console.log(circleArea(2)); // 12.56
 console.log(circleArea(32)); // 3216.99
